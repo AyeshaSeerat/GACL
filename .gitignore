@@ -1,0 +1,7 @@
+# Ignore specific folders
+logs/
+
+data/
+bert_w2c/
+GACL_best_model.pth/
+__pycache__/
